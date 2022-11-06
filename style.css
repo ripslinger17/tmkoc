@@ -1,0 +1,38 @@
+body{
+    background-color: #FFEFD6;
+    margin: 0 0 0 0;
+}
+p{
+    font-size: 1.5rem;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #3A8891;
+}
+hr{
+    width: 250px;
+    background-color: #FFEFD6;
+    border-color: grey;
+    border-style: dotted none none none;
+    border-width: 10px;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 3rem;
+    color: #0E5E6F;
+}
+#title{
+    font-family: 'Sacramento', cursive;
+    font-size: 7rem;
+    margin-top: 0px;
+    color: #0E5E6F;
+}
+.header{
+    background-color: #F2DEBA;
+    height: 170px;
+    text-align: center;
+    
+}
+.profile-pic{
+    height: 300px;
+    width: 300px;
+}
